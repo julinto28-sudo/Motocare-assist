@@ -1,0 +1,6 @@
+{
+  "name": "MotoCare Assist",
+  "description": "Sleek and interactive garage dashboard for motorcycle maintenance, featuring offline-first state tracking with Preferences DataStore, custom Jakarta mode auto-detect service intervals, and dynamic hybrid scheduling based on elapsed days and mileage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
