@@ -53,7 +53,7 @@ import java.util.*
 // Top-level property for Preferences DataStore
 val Context.dataStore: DataStore<Preferences> by preferencesDataStore(name = "motocare_preferences")
 
-const val APP_VERSION = "1.0.1"
+const val APP_VERSION = "1.0.2"
 
 // Component Constant IDs
 const val COMPONENT_OLI_MESIN = "oli_mesin"
